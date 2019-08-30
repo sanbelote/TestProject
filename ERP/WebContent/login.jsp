@@ -45,6 +45,7 @@
 			System.exit(0);
 		}
 		System.out.println("Opened database successfully");
+		System.out.println("Bye bye");
 	%>
 </body>
 </html>
